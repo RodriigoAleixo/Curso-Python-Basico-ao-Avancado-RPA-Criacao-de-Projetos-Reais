@@ -16,4 +16,6 @@ Exercícios Lógica de Programação com Python.ipynb: Atividades práticas para
 Caderno Python Pandas Analise e Tratamento de Dados.ipynb: Exemplos de manipulação e análise de dados com Pandas.
 Udemy
 
-
+👨‍💻 Autor Rodrigo de Lima Aleixo 
+💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-de-lima-aleixo-850b1720b/)
+✉️ E-mail: *rodriigoaleixo@gmail.com*
